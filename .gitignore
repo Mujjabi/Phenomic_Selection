@@ -5,4 +5,5 @@
 .csv
 Phenotypic_Data/
 Spectral_Data/
-Genomic_Prediction/
+Genomic_Prediction/**/*.csv
+Genomic_Prediction/**/*.xlsx
